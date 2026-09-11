@@ -1,0 +1,4 @@
+interface:
+  display_name: "IP 角色制作"
+  short_description: "从角色定位、主形象到表情动作和应用延展，建立一致且可复用的 IP 系统"
+  default_prompt: "请使用 $ip-character-design，根据我的材料完成 IP 角色定位、形象设计和所需应用延展。"
